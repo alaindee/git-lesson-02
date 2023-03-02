@@ -1,1 +1,3 @@
-# git-lesson-02
+# Lessons and Testing On GitHub
+
+All about GitHub functionalities.
